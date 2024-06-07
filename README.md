@@ -4,3 +4,5 @@
 ## See the following discussion:
 
 [Python4Physics: A physics outreach program]<src="documents/Python4Physics.pdf">
+
+<a href="documents/Python4Physics.pdf" target="_blank">PDF.</a>
