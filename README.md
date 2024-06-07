@@ -1,5 +1,5 @@
 # Resources from the Python4Physics Project
-<img src="images/3quarks.png" width="94" height="82">
+<img src="images/goldenspiral.png" width="94" height="82">
 
 ## See the following discussion:
 
