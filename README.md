@@ -5,4 +5,4 @@
 
 [Python4Physics: A physics outreach program]<src="documents/Python4Physics.pdf">
 
-<a href="tddyrogers.github.io/python4physics.github.io/" target="_blank">PDF.</a>
+<a href="tddyrogers.github.io/python4physics.github.io/documents/Python4Physics.pdf" target="_blank">PDF.</a>
