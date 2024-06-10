@@ -1,5 +1,5 @@
 # Resources from the Python4Physics Project
-<img src="images/goldenspiralLines.png" width="314" height="202">
+<img src="images/goldenspiralLines.png" width="314" height="194">
 
 
 ## Find slides and code samples <a href="https://drive.google.com/drive/folders/1ztGUfdyYO7ATZ6cmxIjeusdafHC8Agf2?usp=sharing" target="_blank">here.</a>
